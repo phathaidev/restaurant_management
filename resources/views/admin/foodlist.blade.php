@@ -6,13 +6,13 @@
     <div class="col-12 grid-margin">
       <div class="card">
         <div class="card-body">
-          <h3 class="card-title">User Managent</h3>
+          <h3 class="card-title">Food Managent</h3>
           <div class="table-responsive">
             <table class="table">
               <thead>
                 <tr>
                   <th> ID</th>
-                  <th> Title</th>
+                  <th> Name</th>
                   <th> Price</th>
                   <th> Description</th>
                   <th> Create at </th>
